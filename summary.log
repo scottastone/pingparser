@@ -1,0 +1,4 @@
+       tibia.com: 159.64 ±  1.88 ms from    524 samples
+ ycombinator.com:  29.68 ±  8.48 ms from    212 samples
+      reddit.com:  25.35 ±  2.48 ms from   4336 samples
+      google.com:  25.64 ±  4.09 ms from    401 samples
